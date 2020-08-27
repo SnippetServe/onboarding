@@ -14,4 +14,4 @@ Congrats you have made your first PR to SnippetServe.
 #### Contributors
 1. [rohitkrishna094](https://github.com/rohitkrishna094)
 2. [Bit-Sahil04](https://github.com/Bit-Sahil04)
-
+3. [Helix](https://github.com/HelixHEX)
