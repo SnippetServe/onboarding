@@ -12,3 +12,4 @@ Repo to get team members up to speed on git workflow
 Congrats you have made your first PR to SnippetServe.
 
 #### Contributors
+1. [rohitkrishna094](https://github.com/rohitkrishna094)
