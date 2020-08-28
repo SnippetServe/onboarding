@@ -19,3 +19,4 @@ Congrats you have made your first PR to SnippetServe.
 2. [Bit-Sahil04](https://github.com/Bit-Sahil04)
 3. [Helix](https://github.com/HelixHEX)
 4. [jeffn12](https://github.com/jeffn12)
+5. [DevHyperCoder](https://github.com/DevHyperCoder)
