@@ -22,3 +22,4 @@ Congrats you have made your first PR to SnippetServe.
 5. [DevHyperCoder](https://github.com/DevHyperCoder)
 6. [giusdp](https://github.com/giusdp)
 7. [allenhe77](https://github.com/allenhe77)
+8. [Calandrinon](https://github.com/Calandrinon)
