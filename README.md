@@ -15,11 +15,11 @@ Congrats you have made your first PR to SnippetServe.
 
 #### Contributors
 
-1. [rohitkrishna094](https://github.com/rohitkrishna094)
-2. [Bit-Sahil04](https://github.com/Bit-Sahil04)
-3. [Helix](https://github.com/HelixHEX)
-4. [jeffn12](https://github.com/jeffn12)
-5. [DevHyperCoder](https://github.com/DevHyperCoder)
-6. [giusdp](https://github.com/giusdp)
-7. [allenhe77](https://github.com/allenhe77)
-8. [Calandrinon](https://github.com/Calandrinon)
+* [rohitkrishna094](https://github.com/rohitkrishna094)
+* [Bit-Sahil04](https://github.com/Bit-Sahil04)
+* [Helix](https://github.com/HelixHEX)
+* [jeffn12](https://github.com/jeffn12)
+* [DevHyperCoder](https://github.com/DevHyperCoder)
+* [giusdp](https://github.com/giusdp)
+* [allenhe77](https://github.com/allenhe77)
+* [Calandrinon](https://github.com/Calandrinon)
