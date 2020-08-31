@@ -23,3 +23,4 @@ Congrats you have made your first PR to SnippetServe.
 * [giusdp](https://github.com/giusdp)
 * [allenhe77](https://github.com/allenhe77)
 * [Calandrinon](https://github.com/Calandrinon)
+* [AjaybirRandhawa](https://github.com/AjaybirRandhawa)
